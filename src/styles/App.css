@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+main h1 {
+    text-align: center;
+}
+
+header{
+    background-color: #ddd;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: aquamarine;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+footer p {
+    text-align: center;
+}
